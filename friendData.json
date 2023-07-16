@@ -1,0 +1,29 @@
+const friendsData = [
+    {
+        id: 1,
+        name: 'Shuvo',
+        profession: 'Software Engineer',
+        location: 'San Francisco, USA',
+        bio: 'Passionate about coding and building amazing software.',
+        interests: ['Programming', 'Gaming', 'Reading'],
+        image: require('./Shuvo.jpg'),
+    },
+    {
+        id: 2,
+        name: 'Faisal',
+        profession: 'Graphic Designer',
+        location: 'London, UK',
+        bio: 'Creativity is my superpower. Designing beautiful things is my passion.',
+        interests: ['Design', 'Art', 'Photography'],
+        image: require('./Faisal.jpg'),
+    },
+    {
+        id: 3,
+        name: 'Helari',
+        profession: 'Marketing Specialist',
+        location: 'New York, USA',
+        bio: 'Helping businesses grow through effective marketing strategies.',
+        interests: ['Marketing', 'Social Media', 'Travel'],
+        image: require('./Helari.jpg'),
+    },
+];
